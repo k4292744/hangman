@@ -1,4 +1,5 @@
 # Thanks so much for reading my book. Feel free to contact me at cory[at]theselftaughtprogrammer.io. 
+# Test Comment: 2019-06-07 01:30:00
  
 def hangman(word): 
     wrong = 0 
